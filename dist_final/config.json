@@ -1,0 +1,36 @@
+{
+  "game_path": "D:\\steam\\steamapps\\common\\BalladsOfHongye_CN",
+  "game_exe": "bin64\\BalladsOfHongye.exe",
+  "steam_app_id": "2656540",
+  "dll_path": "",
+  "hotkeys": {
+    "money": "Ctrl+F1",
+    "food": "Ctrl+F2",
+    "water": "Ctrl+F3",
+    "cloth": "Ctrl+F4",
+    "wood": "Ctrl+F5",
+    "mineral": "Ctrl+F6",
+    "salt": "Ctrl+F7",
+    "wine": "Ctrl+F8",
+    "essence": "Ctrl+F11",
+    "fame": "Ctrl+F9",
+    "creative_mode": "Ctrl+F10",
+    "happiness": "Ctrl+F12"
+  },
+  "creative_mode": {
+    "max_boom": true,
+    "unlock_all_buildings": true,
+    "infinite_resources": true,
+    "unlimited_upgrade": true
+  },
+  "window": {
+    "width": 1200,
+    "height": 750,
+    "x": 234,
+    "y": 234
+  },
+  "auto_detect_game": true,
+  "hotkeys_enabled": true,
+  "theme": "dark",
+  "last_nav": 2
+}
